@@ -513,8 +513,8 @@ function LakshmiHome() {
                 <div className="section-subtitle" style={{ marginBottom: '12px' }}>Reach Us</div>
                 <h3 className="font-display" style={{ fontSize: '1.3rem', color: '#5C1010', marginBottom: '20px' }}>Restaurant Contact</h3>
                 {[
-                  { icon: <IconPhone />, label: 'Reservations', value: '+91 98400 00001' },
-                  { icon: <IconPhone />, label: 'Takeaway Orders', value: '+91 98400 00002' },
+                  { icon: <IconPhone />, label: 'Reservations', value: '+91 63741 76397' },
+                  { icon: <IconPhone />, label: 'Takeaway Orders', value: '+91 63741 76397' },
                   { icon: <IconMail />, label: 'Email', value: 'restaurant@lbco.in' },
                 ].map((item) => (
                   <div key={item.label} style={{ display: 'flex', gap: '12px', alignItems: 'flex-start', marginBottom: '16px' }}>
@@ -591,8 +591,8 @@ function LakshmiHome() {
               <div className="section-subtitle" style={{ marginBottom: '12px' }}>Book an Event</div>
               <h3 className="font-display" style={{ fontSize: '1.3rem', color: '#5C1010', marginBottom: '20px' }}>Catering Contact</h3>
               {[
-                { icon: <IconPhone />, label: 'Event Booking', value: '+91 98400 00003' },
-                { icon: <IconPhone />, label: 'Bulk Orders', value: '+91 98400 00004' },
+                { icon: <IconPhone />, label: 'Event Booking', value: '+91 63741 76397' },
+                { icon: <IconPhone />, label: 'Bulk Orders', value: '+91 63741 76397' },
                 { icon: <IconMail />, label: 'Email', value: 'catering@lbco.in' },
               ].map((item) => (
                 <div key={item.label} style={{ display: 'flex', gap: '12px', alignItems: 'flex-start', marginBottom: '20px' }}>
