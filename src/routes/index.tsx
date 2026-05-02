@@ -287,7 +287,7 @@ function LakshmiHome() {
                    <section
           className="hero-section"
           style={{
-            backgroundImage: "url('/images/bg.jpg')",
+            backgroundImage: "url('/images/back.jpeg')",
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
