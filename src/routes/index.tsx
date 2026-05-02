@@ -246,24 +246,7 @@ function LakshmiHome() {
         display: 'flex', alignItems: 'center', justifyContent: 'space-between',
         height: '68px',
       }}>
-        <section
-  style={{
-    width: "100%",
-    minHeight: "100vh",   // 🔥 use minHeight instead of height
-    backgroundImage: "url('/images/back.jpeg')",
-    backgroundSize: "cover",
-    backgroundPosition: "center",
-    backgroundRepeat: "no-repeat",
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "center",
-  }}
->
-  <div style={{ textAlign: "center", color: "white" }}>
-    <h1 style={{ fontSize: "3rem", margin: 0 }}>L&B Cafe</h1>
-    <p style={{ margin: 0 }}>and Co</p>
-  </div>
-</section>
+       
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           <span className="font-script" style={{ color: '#E8B84B', fontSize: '1.35rem', lineHeight: 1.1 }}>
             Lakshmi Bharathi Cafe
