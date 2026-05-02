@@ -248,7 +248,7 @@ function LakshmiHome() {
       }}>
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           <span className="font-script" style={{ color: '#E8B84B', fontSize: '1.35rem', lineHeight: 1.1 }}>
-            L&B Cafe
+            Lakshmi Bharathi Cafe
           </span>
           <span style={{ color: 'rgba(232,184,75,0.6)', fontSize: '0.6rem', letterSpacing: '0.2em', textTransform: 'uppercase' }}>
             and Co
@@ -307,7 +307,7 @@ function LakshmiHome() {
               lineHeight: 1.1,
               marginBottom: '6px',
             }}>
-             L&B Cafe
+             Lakshmi Bharathi Cafe
             </h1>
             <div className="font-display" style={{
               fontSize: 'clamp(1rem, 3vw, 1.6rem)',
@@ -454,7 +454,7 @@ function LakshmiHome() {
         <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '60px' }}>
             <span className="section-subtitle">Dine With Us</span>
-            <h2 className="section-title" style={{ marginTop: '12px' }}>Our Restaurant</h2>
+            <h2 className="section-title" style={{ marginTop: '12px' }}>L&B Restaurant</h2>
             <OrnamentDivider />
             <p style={{ color: '#6B5B4E', maxWidth: '560px', margin: '0 auto', lineHeight: 1.8, fontSize: '0.95rem' }}>
               Step into a warm, welcoming space where every meal is crafted with love. Open for breakfast, lunch, and dinner — all week long.
@@ -536,7 +536,7 @@ function LakshmiHome() {
         <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: '60px' }}>
             <span className="section-subtitle">Full Service</span>
-            <h2 className="section-title" style={{ marginTop: '12px' }}>Catering Services</h2>
+            <h2 className="section-title" style={{ marginTop: '12px' }}>Lakshmi Bharathi Catering Services</h2>
             <OrnamentDivider />
             <p style={{ color: '#6B5B4E', maxWidth: '580px', margin: '0 auto', lineHeight: 1.8, fontSize: '0.95rem' }}>
               From intimate family gatherings to grand weddings with thousands of guests — we bring the same warmth, quality, and precision to every event we serve.
@@ -571,7 +571,7 @@ function LakshmiHome() {
                 <div>
                   <div style={{ fontWeight: 700, color: '#1C1209', marginBottom: '2px' }}>Catering Division</div>
                   <div style={{ fontSize: '0.9rem', lineHeight: 1.6 }}>
-                    No. 7/A, Industrial Estate Road,<br />
+                     No. 7/A, Industrial Estate Road,<br />
                     Ambattur, Chennai — 600 058,<br />
                     Tamil Nadu, India
                   </div>
