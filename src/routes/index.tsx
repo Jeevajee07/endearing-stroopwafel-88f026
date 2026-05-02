@@ -375,7 +375,7 @@ function LakshmiHome() {
                 <em style={{ fontStyle: 'italic', color: '#C9901A' }}>Authentic Taste</em>
               </h2>
               <p style={{ color: '#6B5B4E', lineHeight: 1.9, marginBottom: '20px', fontSize: '0.97rem' }}>
-                Lakshmi Bharathi and Co was born from a deep love of traditional South Indian cuisine and the belief that food is the purest form of hospitality. What began as a humble family kitchen has grown into one of Chennai's most trusted names in both restaurant dining and event catering.
+                L&B Cafe and Co was born from a deep love of traditional South Indian cuisine and the belief that food is the purest form of hospitality. What began as a humble family kitchen has grown into one of Chennai's most trusted names in both restaurant dining and event catering.
               </p>
               <p style={{ color: '#6B5B4E', lineHeight: 1.9, marginBottom: '32px', fontSize: '0.97rem' }}>
                 Our chefs honor age-old recipes passed down through generations — using fresh, locally sourced ingredients, hand-ground spices, and slow-cooking methods that cannot be rushed. Every dish that leaves our kitchen carries the warmth of home.
@@ -489,7 +489,7 @@ function LakshmiHome() {
                 <div style={{ display: 'flex', gap: '10px', color: '#6B5B4E', marginBottom: '8px', alignItems: 'flex-start' }}>
                   <span style={{ color: '#8B1A1A', marginTop: '3px', flexShrink: 0 }}><IconMapPin /></span>
                   <div>
-                    <div style={{ fontWeight: 700, color: '#1C1209', marginBottom: '2px' }}>Lakshmi Bharathi and Co</div>
+                    <div style={{ fontWeight: 700, color: '#1C1209', marginBottom: '2px' }}>L&B Cafe and Co</div>
                     <div style={{ fontSize: '0.9rem', lineHeight: 1.6 }}>
                       No. 42, Gandhi Road, Nungambakkam,<br />
                       Chennai — 600 034,<br />
@@ -656,7 +656,7 @@ function LakshmiHome() {
           <div style={{ display: 'flex', justifyContent: 'center', gap: '40px', marginTop: '32px', flexWrap: 'wrap' }}>
             {[
               { platform: 'WhatsApp', handle: 'Chat with us directly', color: '#25D366' },
-              { platform: 'Instagram', handle: '@lakshmibharathiandco', color: '#E1306C' },
+              { platform: 'Instagram', handle: '@l&b Cafe ', color: '#E1306C' },
               { platform: 'X / Twitter', handle: '@lbandco', color: '#1DA1F2' },
             ].map((s) => (
               <div key={s.platform} style={{ textAlign: 'center' }}>
@@ -800,7 +800,7 @@ function LakshmiHome() {
 
             <div>
               <div className="font-script" style={{ color: '#E8B84B', fontSize: '1.8rem', marginBottom: '4px' }}>
-                Lakshmi Bharathi
+                L&B Cafe
               </div>
               <div style={{ color: 'rgba(232,184,75,0.5)', fontSize: '0.65rem', letterSpacing: '0.2em', textTransform: 'uppercase', marginBottom: '16px' }}>
                 and Co
@@ -809,10 +809,10 @@ function LakshmiHome() {
                 Bringing the rich flavors of traditional South Indian cuisine to your table since 2009.
               </p>
               <div style={{ display: 'flex', gap: '12px', marginTop: '20px' }}>
-                <a href="https://wa.me/919840000003" className="social-icon" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" style={{ width: '38px', height: '38px', background: 'transparent', borderColor: 'rgba(232,184,75,0.3)', color: '#E8B84B' }}>
+                <a href="https://wa.me/916374176397" className="social-icon" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" style={{ width: '38px', height: '38px', background: 'transparent', borderColor: 'rgba(232,184,75,0.3)', color: '#E8B84B' }}>
                   <IconWhatsApp />
                 </a>
-                <a href="https://www.instagram.com/lakshmibharathiandco" className="social-icon" target="_blank" rel="noopener noreferrer" aria-label="Instagram" style={{ width: '38px', height: '38px', background: 'transparent', borderColor: 'rgba(232,184,75,0.3)', color: '#E8B84B' }}>
+                <a href="https://www.instagram.com/l&bcafeandco" className="social-icon" target="_blank" rel="noopener noreferrer" aria-label="Instagram" style={{ width: '38px', height: '38px', background: 'transparent', borderColor: 'rgba(232,184,75,0.3)', color: '#E8B84B' }}>
                   <IconInstagram />
                 </a>
                 <a href="https://x.com/lbandco" className="social-icon" target="_blank" rel="noopener noreferrer" aria-label="X" style={{ width: '38px', height: '38px', background: 'transparent', borderColor: 'rgba(232,184,75,0.3)', color: '#E8B84B' }}>
@@ -884,7 +884,7 @@ function LakshmiHome() {
           {/* Bottom bar */}
           <div style={{ borderTop: '1px solid rgba(201,144,26,0.2)', paddingTop: '24px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px' }}>
             <span style={{ color: 'rgba(255,255,255,0.35)', fontSize: '0.78rem' }}>
-              © 2024 Lakshmi Bharathi and Co. All rights reserved.
+              © 2024 L&B Cafe and Co. All rights reserved.
             </span>
             <span style={{ color: 'rgba(232,184,75,0.4)', fontSize: '0.72rem', letterSpacing: '0.08em', textTransform: 'uppercase' }}>
               FSSAI Licensed · Chennai, Tamil Nadu
