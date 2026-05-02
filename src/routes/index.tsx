@@ -682,21 +682,21 @@ function LakshmiHome() {
               {
                 title: 'General Enquiry',
                 items: [
-                  { icon: <IconPhone />, value: '+91 98400 00001' },
+                  { icon: <IconPhone />, value: '+91 63741 76397' },
                   { icon: <IconMail />, value: 'info@lbco.in' },
                 ],
               },
               {
                 title: 'Restaurant',
                 items: [
-                  { icon: <IconPhone />, value: '+91 98400 00002' },
+                  { icon: <IconPhone />, value: '+91  63741 76397' },
                   { icon: <IconMapPin />, value: 'No. 42, Gandhi Road, Nungambakkam, Chennai — 600 034' },
                 ],
               },
               {
                 title: 'Catering Division',
                 items: [
-                  { icon: <IconPhone />, value: '+91 98400 00003' },
+                  { icon: <IconPhone />, value: '+91  63741 76397' },
                   { icon: <IconMapPin />, value: 'No. 7/A, Industrial Estate Road, Ambattur, Chennai — 600 058' },
                 ],
               },
