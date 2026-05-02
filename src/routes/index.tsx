@@ -222,6 +222,7 @@ function MenuSection({ section }: { section: typeof menuSections[0] }) {
                 {item.price}
               </div>
             </div>
+           </div>
           ))}
         </div>
       )}
