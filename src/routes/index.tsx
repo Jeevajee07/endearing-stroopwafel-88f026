@@ -249,10 +249,10 @@ function LakshmiHome() {
         <section
   style={{
     width: "100%",
-    height: "100vh",              // full screen height
+    minHeight: "100vh",   // 🔥 use minHeight instead of height
     backgroundImage: "url('/images/back.jpeg')",
-    backgroundSize: "cover",      // 🔥 makes it fill fully
-    backgroundPosition: "center", // center the image
+    backgroundSize: "cover",
+    backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
     display: "flex",
     alignItems: "center",
@@ -260,8 +260,8 @@ function LakshmiHome() {
   }}
 >
   <div style={{ textAlign: "center", color: "white" }}>
-    <h1 style={{ fontSize: "3rem" }}>L&B Cafe</h1>
-    <p>and Co</p>
+    <h1 style={{ fontSize: "3rem", margin: 0 }}>L&B Cafe</h1>
+    <p style={{ margin: 0 }}>and Co</p>
   </div>
 </section>
         <div style={{ display: 'flex', flexDirection: 'column' }}>
