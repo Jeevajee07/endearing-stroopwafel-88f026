@@ -222,7 +222,6 @@ function MenuSection({ section }: { section: typeof menuSections[0] }) {
                 {item.price}
               </div>
             </div>
-           </div>
           ))}
         </div>
       )}
@@ -285,16 +284,7 @@ function LakshmiHome() {
 
       {/* ── HERO ── */}
       <section className="hero-section">
-                   <section
-          className="hero-section"
-          style={{
-            backgroundImage: "url('/images/back.jpeg')",
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-            backgroundRepeat: 'no-repeat'
-          }}
-        >
-                <div className="hero-pattern" />
+        <div className="hero-pattern" />
         <div className="hero-mandala" />
 
         {/* decorative lines */}
