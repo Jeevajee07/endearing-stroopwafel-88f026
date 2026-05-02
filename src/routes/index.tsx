@@ -340,7 +340,7 @@ function LakshmiHome() {
                 <span>View Menu</span>
               </a>
               <a href="#catering" className="btn-outline" style={{ borderColor: 'rgba(232,184,75,0.5)', color: '#E8B84B' }}>
-                <span>lakshmibharathi caterers/span>
+                <span>lakshmibharathi caterers</span>
               </a>
             </div>
           </div>
