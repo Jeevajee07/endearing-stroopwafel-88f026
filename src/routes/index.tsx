@@ -248,11 +248,12 @@ function LakshmiHome() {
       }}>
         <section
   style={{
+    width: "100%",
+    height: "100vh",              // full screen height
     backgroundImage: "url('/images/back.jpeg')",
-    backgroundSize: "cover",
-    backgroundPosition: "center",
+    backgroundSize: "cover",      // 🔥 makes it fill fully
+    backgroundPosition: "center", // center the image
     backgroundRepeat: "no-repeat",
-    minHeight: "100vh",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
