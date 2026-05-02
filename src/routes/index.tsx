@@ -284,7 +284,16 @@ function LakshmiHome() {
 
       {/* ── HERO ── */}
       <section className="hero-section">
-        <div className="hero-pattern" />
+                   <section
+          className="hero-section"
+          style={{
+            backgroundImage: "url('/images/bg.jpg')",
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat'
+          }}
+        >
+                <div className="hero-pattern" />
         <div className="hero-mandala" />
 
         {/* decorative lines */}
