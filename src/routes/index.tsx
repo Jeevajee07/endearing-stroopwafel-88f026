@@ -248,7 +248,7 @@ function LakshmiHome() {
       }}>
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           <span className="font-script" style={{ color: '#E8B84B', fontSize: '1.35rem', lineHeight: 1.1 }}>
-            Lakshmi Bharathi
+            L&B Cafe
           </span>
           <span style={{ color: 'rgba(232,184,75,0.6)', fontSize: '0.6rem', letterSpacing: '0.2em', textTransform: 'uppercase' }}>
             and Co
@@ -307,7 +307,7 @@ function LakshmiHome() {
               lineHeight: 1.1,
               marginBottom: '6px',
             }}>
-              Lakshmi Bharathi
+             L&B Cafe
             </h1>
             <div className="font-display" style={{
               fontSize: 'clamp(1rem, 3vw, 1.6rem)',
@@ -340,7 +340,7 @@ function LakshmiHome() {
                 <span>View Menu</span>
               </a>
               <a href="#catering" className="btn-outline" style={{ borderColor: 'rgba(232,184,75,0.5)', color: '#E8B84B' }}>
-                <span>Our Catering</span>
+                <span>lakshmibharathi caterers/span>
               </a>
             </div>
           </div>
@@ -623,7 +623,7 @@ function LakshmiHome() {
           </p>
           <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
             <a
-              href="https://wa.me/919840000003"
+              href="https://wa.me/916374176397"
               className="social-icon"
               target="_blank"
               rel="noopener noreferrer"
@@ -633,7 +633,7 @@ function LakshmiHome() {
               <IconWhatsApp />
             </a>
             <a
-              href="https://www.instagram.com/lakshmibharathiandco"
+              href="https://www.instagram.com/ravee_2324?igsh=cnJjZnRtYzJqajJq"
               className="social-icon"
               target="_blank"
               rel="noopener noreferrer"
@@ -852,7 +852,7 @@ function LakshmiHome() {
               </div>
               <div style={{ display: 'flex', gap: '8px', alignItems: 'center', marginBottom: '8px' }}>
                 <span style={{ color: '#E8B84B' }}><IconPhone /></span>
-                <span style={{ color: 'rgba(255,255,255,0.55)', fontSize: '0.85rem' }}>+91 98400 00001</span>
+                <span style={{ color: 'rgba(255,255,255,0.55)', fontSize: '0.85rem' }}>+91 63741 76397</span>
               </div>
               <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
                 <span style={{ color: '#E8B84B' }}><IconMail /></span>
@@ -872,7 +872,7 @@ function LakshmiHome() {
               </div>
               <div style={{ display: 'flex', gap: '8px', alignItems: 'center', marginBottom: '8px' }}>
                 <span style={{ color: '#E8B84B' }}><IconPhone /></span>
-                <span style={{ color: 'rgba(255,255,255,0.55)', fontSize: '0.85rem' }}>+91 98400 00003</span>
+                <span style={{ color: 'rgba(255,255,255,0.55)', fontSize: '0.85rem' }}>+91 63741 76397</span>
               </div>
               <div style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
                 <span style={{ color: '#E8B84B' }}><IconMail /></span>
